@@ -1,0 +1,17 @@
+.update-button {
+    background-color: #9831f8;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    position: absolute;
+    bottom: 20px;
+    left: 7%;
+}
+
+update-buttonhover {
+    color: #b268f7
+}

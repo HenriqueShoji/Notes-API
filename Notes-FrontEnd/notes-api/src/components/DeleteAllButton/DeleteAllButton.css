@@ -1,0 +1,17 @@
+.delete-all {
+    background-color: red;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 32px 0;
+    position: absolute;
+    right: 14%;
+}
+
+.delete-all:hover {
+    color: #000000
+}

@@ -1,0 +1,24 @@
+.text {
+    margin: 24px 0;
+}
+
+.text input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 5px 5px;
+}
+
+.text button {
+    color: red;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 13px; 
+    top: 33%;
+}
