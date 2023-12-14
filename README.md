@@ -1,4 +1,4 @@
-Note-API
+<h3>Notes-API</h3>
 
 Meu primeiro projeto "Full-Stack" utilizando .NET no Back-End e React no Back-End
 
@@ -14,7 +14,7 @@ problemas estruturais, porém vou continuar me dedicando aos estudos tanto de Fr
 
 Para utilizar e testar o projeto é bem simples:
 
-Front-End:
+<h4>Front-End</h4>
 
 npm install --save react-modal
 
@@ -25,7 +25,7 @@ npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome 
 
 
-Back-End:
+<h4>Back-End</h4>
 
 Utilizando banco de dados MongoDb localhost com um Database chamado "NotesDb" e uma Collection chamada "Notes"
 
